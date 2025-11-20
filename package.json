@@ -1,5 +1,5 @@
 {
-  "name": "aoc_2025",
+  "name": "aoc-2025",
   "version": "1.0.0",
   "description": "Advent of Code 2025",
   "module": "index.ts",
@@ -23,6 +23,7 @@
     "@typescript-eslint/parser": "^8.47.0",
     "eslint": "^9.39.1",
     "eslint-config-prettier": "^10.1.8",
+    "globals": "^16.5.0",
     "prettier": "^3.6.2"
   },
   "peerDependencies": {
